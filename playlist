@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:0,beIN Sports 1
+http://can.off.li:4946/cobra/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxMToxMTowMCBQTSZoYXNoX3ZhbHVlPUt0QmZhc0V5TnJVQ1UxTkJxN3VPRFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:0,beIN Sports 2
+http://can.off.li:4946/cobra/bein2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxMToxMTowMCBQTSZoYXNoX3ZhbHVlPUt0QmZhc0V5TnJVQ1UxTkJxN3VPRFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:0,beIN Sports 3
+http://can.off.li:4946/cobra/bein3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxMToxMTowMCBQTSZoYXNoX3ZhbHVlPUt0QmZhc0V5TnJVQ1UxTkJxN3VPRFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:0,beIN Sports 4
+http://livespecial.hjkm.info:11991/mercury/beinsports4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMSAxOjU0OjQxIFBNJmhhc2hfdmFsdWU9b25wYWRMdEl2bGZxa1QrSU8wVnpxdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:0,beIN Sports 5
+http://livespecial.hjkm.info:11991/mercury/beinsports5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMSAxOjU0OjQxIFBNJmhhc2hfdmFsdWU9b25wYWRMdEl2bGZxa1QrSU8wVnpxdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:0,beIN Sports 6
+http://livespecial.hjkm.info:11991/mercury/beinsports6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMSAxOjU0OjQxIFBNJmhhc2hfdmFsdWU9b25wYWRMdEl2bGZxa1QrSU8wVnpxdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:0,beIN Sports 7
+http://livespecial.hjkm.info:11991/mercury/beinsports7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMSAxOjU0OjQxIFBNJmhhc2hfdmFsdWU9b25wYWRMdEl2bGZxa1QrSU8wVnpxdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:0,Test 1
+http://can.off.li:4946/cobra/bein1/chunks.m3u8?nimblesessionid=43683601&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxMToxNjozNyBQTSZoYXNoX3ZhbHVlPTFVWWJEZGlkY3JrZ29ETjJDa25neWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:0,Test 2
+http://can.off.li:4946/cobra/bein4/chunks.m3u8?nimblesessionid=43688590&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxMToyNToyMSBQTSZoYXNoX3ZhbHVlPXZVWU5TQ2o0OER5ZHovWE1SbkZ4Z2c9PSZ2YWxpZG1pbnV0ZXM9Mg==
