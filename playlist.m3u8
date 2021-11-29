@@ -17,3 +17,5 @@ http://livespecial.hjkm.info:11991/mercury/beinsports7/playlist.m3u8?wmsAuthSign
 http://can.off.li:4946/cobra/bein1/chunks.m3u8?nimblesessionid=43683601&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxMToxNjozNyBQTSZoYXNoX3ZhbHVlPTFVWWJEZGlkY3JrZ29ETjJDa25neWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:0,Test 2
 http://can.off.li:4946/cobra/bein4/chunks.m3u8?nimblesessionid=43688590&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxMToyNToyMSBQTSZoYXNoX3ZhbHVlPXZVWU5TQ2o0OER5ZHovWE1SbkZ4Z2c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:0,Test 3
+http://can.off.li:4946/cobra/bein4/chunks.m3u8?nimblesessionid=43688590&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxMToyNToyMSBQTSZoYXNoX3ZhbHVlPXZVWU5TQ2o0OER5ZHovWE1SbkZ4Z2c9PSZ2YWxpZG1pbnV0ZXM9Mg==
